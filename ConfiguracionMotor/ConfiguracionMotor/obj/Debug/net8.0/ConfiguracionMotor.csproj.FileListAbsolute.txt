@@ -1,0 +1,14 @@
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\bin\Debug\net8.0\ConfiguracionMotor.exe
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\bin\Debug\net8.0\ConfiguracionMotor.deps.json
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\bin\Debug\net8.0\ConfiguracionMotor.runtimeconfig.json
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\bin\Debug\net8.0\ConfiguracionMotor.dll
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\bin\Debug\net8.0\ConfiguracionMotor.pdb
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\ConfiguracionMotor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\ConfiguracionMotor.AssemblyInfoInputs.cache
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\ConfiguracionMotor.AssemblyInfo.cs
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\ConfiguracionMotor.csproj.CoreCompileInputs.cache
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\ConfiguracionMotor.dll
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\refint\ConfiguracionMotor.dll
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\ConfiguracionMotor.pdb
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\ConfiguracionMotor.genruntimeconfig.cache
+C:\Users\Familia Garcia\Documents\C Sharp\ConfiguracionMotor\ConfiguracionMotor\obj\Debug\net8.0\ref\ConfiguracionMotor.dll
